@@ -4,3 +4,4 @@ def cube(a):
 
 print(cube(2))
 print(cube(5))
+
